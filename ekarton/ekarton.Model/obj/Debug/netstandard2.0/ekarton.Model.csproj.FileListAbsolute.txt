@@ -1,0 +1,10 @@
+C:\Users\medis\Desktop\eKarton\ekarton\ekarton.Model\bin\Debug\netstandard2.0\ekarton.Model.deps.json
+C:\Users\medis\Desktop\eKarton\ekarton\ekarton.Model\bin\Debug\netstandard2.0\ekarton.Model.dll
+C:\Users\medis\Desktop\eKarton\ekarton\ekarton.Model\bin\Debug\netstandard2.0\ekarton.Model.pdb
+C:\Users\medis\Desktop\eKarton\ekarton\ekarton.Model\obj\Debug\netstandard2.0\ekarton.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medis\Desktop\eKarton\ekarton\ekarton.Model\obj\Debug\netstandard2.0\ekarton.Model.AssemblyInfoInputs.cache
+C:\Users\medis\Desktop\eKarton\ekarton\ekarton.Model\obj\Debug\netstandard2.0\ekarton.Model.AssemblyInfo.cs
+C:\Users\medis\Desktop\eKarton\ekarton\ekarton.Model\obj\Debug\netstandard2.0\ekarton.Model.csproj.CoreCompileInputs.cache
+C:\Users\medis\Desktop\eKarton\ekarton\ekarton.Model\obj\Debug\netstandard2.0\ekarton.Model.dll
+C:\Users\medis\Desktop\eKarton\ekarton\ekarton.Model\obj\Debug\netstandard2.0\ekarton.Model.pdb
+C:\Users\medis\Desktop\eKarton\ekarton\ekarton.Model\obj\Debug\netstandard2.0\ekarton.Model.csproj.AssemblyReference.cache

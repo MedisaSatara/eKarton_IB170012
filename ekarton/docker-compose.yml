@@ -1,0 +1,33 @@
+version: '3'
+services:
+#mssql docker
+  ekarton-sql:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    restart: unless-stopped
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=QWElkj132!
+      - MSSQL_PID=Developer
+    ports:
+      - 1401:1433
+    networks:
+      - ekartonnet
+
+  ekarton-api:
+    restart: unless-stopped
+    build:
+      context: .
+    environment:
+      - ConnectionStrings:DefaultConnection=Server=ekarton-sql,1433;Database=IB170012_Docker;User=sa;Password=QWElkj132!;ConnectRetryCount=0
+    ports:
+      - 5001:80
+    networks:
+      - ekartonnet      
+    links:
+      - ekarton-sql
+    depends_on:
+      - ekarton-sql
+      
+networks:
+  ekartonnet:
+    driver: bridge      

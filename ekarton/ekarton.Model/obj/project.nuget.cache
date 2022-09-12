@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2SpSJEEApA+/y5dC1c9mUBT6HSTc8rsQtmfkhg7LxnIRndxK8tB35wyhM6a+UphhLHF3rCqsx8eYBqNz1ECLMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\medis\\Desktop\\eKarton\\ekarton\\ekarton.Model\\ekarton.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\medis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\medis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\medis\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\medis\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

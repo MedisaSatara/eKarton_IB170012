@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Doktor\frmDodajUrediDoktora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doktor\frmDodajUrediOdjel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doktor\frmDoktor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doktor\frmOdjel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Korisnik\frmDodajKorisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Korisnik\frmKorisnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\frmConfiramtionLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\frmPocetnaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\frmPocetnaKorisnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nalaz\frmNalaz.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pacijent\frmOsiguranje.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pacijent\frmPacijentDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pacijent\frmPacijenti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pacijent\frmPretraga.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pacijent\frmPreventivneMjere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pacijent\SistematskiPregled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pregled\frmPregled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pregled\frmUputnica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report\frmDoktoriPoOcjenama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
